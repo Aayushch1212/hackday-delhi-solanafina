@@ -1,8 +1,7 @@
-# Wallet
+## Occam Wallet - Node.js / Express
 
-A Solana Wallet Project with Flutter.
+Backend for Occam Wallet
 
-- Flutter front end for mobile
-- Node.js / Express backend
-- Solana CLI
-- CoinGecko API
+- Express API
+- Firebase Admin for Firebase cloud services
+- Solana CLI scripts for wallet creation and balance checking
